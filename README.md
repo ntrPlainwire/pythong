@@ -1,0 +1,2 @@
+# pythong
+my python journey
